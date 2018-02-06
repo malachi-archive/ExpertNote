@@ -5,6 +5,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Fact.Extensions.Collection" Version="1.0.1-alpha003" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\ExpertNote.Abstractions\ExpertNote.Abstractions.csproj" />
   </ItemGroup>
 
